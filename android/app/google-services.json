@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700232482423",
+    "project_id": "manny-d6cd9",
+    "storage_bucket": "manny-d6cd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700232482423:android:b7df4d2d64898f69941072",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Y0yoxXFyPEhsm4HVIZQWk6EPIupBW_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
